@@ -14,7 +14,7 @@ public class TestEatCat {
         catTest.info1();
         plate.addFood(20);
         catTest.eat(plate);
-        catTest.info1();
+        catTest.info1();//sd
         }
     }
 
