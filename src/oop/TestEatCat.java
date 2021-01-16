@@ -15,6 +15,17 @@ public class TestEatCat {
         plate.addFood(20);
         catTest.eat(plate);
         catTest.info1();//sd
+        System.out.println();
+        String test = "I like Java!!!";
+        System.out.println(test.replace("a","o"));
+        System.out.println(test.charAt(13));
+        System.out.println(test.endsWith("!!!"));
+        System.out.println(test.startsWith("I like"));
+        System.out.println(test.contains("Java"));
+        System.out.println(test.indexOf("Java"));
+        System.out.println(test.toLowerCase());
+        System.out.println(test.toUpperCase());
+        System.out.println(test.substring(7,11));
         }
     }
 
