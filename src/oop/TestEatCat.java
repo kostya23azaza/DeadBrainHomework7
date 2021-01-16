@@ -24,7 +24,7 @@ public class TestEatCat {
         System.out.println(test.contains("Java"));
         System.out.println(test.indexOf("Java"));
         System.out.println(test.toLowerCase());
-        System.out.println(test.toUpperCase());
+        System.out.println(test.toUpperCase());//'kk
         System.out.println(test.substring(7,11));
         }
     }
